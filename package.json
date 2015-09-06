@@ -9,5 +9,8 @@
     "type": "git",
     "url": "https://github.com/candoia/noa-over-revisions"
   },
-  "fa-icon": "bar-chart"
+  "icon": {
+	"type": "fa",
+	"name": "bar-chart"
+  }
 }
